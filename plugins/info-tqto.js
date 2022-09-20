@@ -17,7 +17,7 @@ let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
 https://github.com/adiwajshing
 
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
-*❉ ImYanXiao:*
+*❉ ADMINISTRATOR NAFRON*
 https://github.com/ImYanXiao
 *▸ - - - —「 Thanks For 」— - - - ◂*
 *❉ FOLLOWERS TIKTOK @nafronanjay2*
